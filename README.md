@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Public--Safe-blue" />
+  <img src="https://img.shields.io/badge/Version-v0.1-green" />
+  <img src="https://img.shields.io/badge/Architecture-Expression--Driven-purple" />
+  <img src="https://img.shields.io/badge/License-Restricted-lightgrey" />
+  <img src="https://img.shields.io/badge/Author-yuer%20(Guanyu)-orange" />
+</p>
+
 EDCA-OS — Expression-Driven Cognitive Architecture
 
 A next-generation AI operating framework for deterministic, auditable, expression-driven intelligence.
