@@ -1,3 +1,4 @@
+📘 EDCA Demo Evidence Pack v1.0
 Expression-Driven AI: Practical Evidence Beyond Prompting
 
 Public-Safe Edition — November 2025
