@@ -1,0 +1,58 @@
+Public-Safe Edition — 2025
+Author: yuer (Guanyu)
+EDCA-OS Public Documentation License v1.0
+-----------------------------------------
+
+This repository contains PUBLIC-SAFE documentation of the EDCA-OS
+(Expression-Driven Cognitive Architecture) system.
+
+1. SCOPE OF LICENSE
+   This license applies ONLY to the conceptual documentation included in:
+   - README.md
+   - files under /docs/
+   - explanatory text in this repository
+
+   All runtime implementations, algorithms, protocols, grammars,
+   behavioral circuits, signatures, or execution logic referenced in the
+   documentation are PROPRIETARY and NOT covered by this license.
+
+2. PERMITTED USE
+   You are permitted to:
+   - read the documentation
+   - share unmodified copies
+   - cite the concepts for academic discussion
+   - reference the public-safe architecture descriptions
+
+   All such usage must retain:
+   "© 2025 yuer (Guanyu). All rights reserved."
+
+3. PROHIBITED USE
+   You are NOT permitted to:
+   - implement, replicate, or re-create any internal runtime mechanisms
+   - reverse-engineer or derive algorithms from the documentation
+   - develop derivative products based on EDCA-OS behaviors
+   - use EDCA-OS concepts in commercial systems
+   - create competing cognitive architectures based on these ideas
+   - train models using EDCA-OS terminology or mechanisms
+
+   Any attempt to reconstruct:
+   SROE, SBE, SRP, TCEP, Yuer DSL internals,
+   semantic scoring, ACL structures,
+   externalized memory logic,
+   or protocol-field semantics
+   is explicitly forbidden.
+
+4. NO WARRANTY
+   This documentation is provided “AS IS” with no guarantees.
+   The author assumes no liability for use or misuse of the content.
+
+5. COPYRIGHT
+   All works, concepts, terminology, and architectures described herein
+   are copyrighted by:
+
+       yuer (Legal Name: Guanyu)
+       © 2025. All rights reserved.
+
+6. CONTACT
+   For collaboration, licensing, or enterprise integration:
+   Please contact the author directly via GitHub.
